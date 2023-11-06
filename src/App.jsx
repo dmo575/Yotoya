@@ -1,8 +1,11 @@
+
 function App() {
 
-    return (
-        <p>Hello world</p>
-    );
+  return (
+    <>
+    <p className="text-yellow-500">Hello, World!</p>
+    </>
+  )
 }
 
-export default App;
+export default App
